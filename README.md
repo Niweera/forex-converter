@@ -6,7 +6,7 @@ Forex-Converter is a microservices based application build using Java Spring Boo
 
 1. git clone the repository.
 2. Each directory is a seperate (micro) service.
-3. Build each project using Maven.
+3. Build each project using Maven (Use JDK14 or change the pom.xml according to the available JDK version).
 4. Start Eureka server.
 5. Start other services.
 6. Go to http://localhost:8761 to see the Eureka server dashboard.
